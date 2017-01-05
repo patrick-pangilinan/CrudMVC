@@ -24,7 +24,7 @@ namespace MvcCRUD
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.yeti.css",
+                      "~/Content/bootstrap.comso.css",
                       "~/Content/site.css"));
         }
     }
